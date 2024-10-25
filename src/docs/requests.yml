@@ -18,11 +18,11 @@ components:
           name:
             type: string
             description: Nombre del usuario
-            example: mulator
+            example: Lucas 
           email:
             type: string
             description: Correo electrónico del usuario
-            example: mulator@yacarestudio.com
+            example: lucasmatiastoledo88@gmail.com
           role:
             type: string
             description: Rol del usuario
@@ -30,11 +30,11 @@ components:
           image:
             type: string
             description: Avatar del usuario
-            example: https://yacarestudio.com/img/logo.png
+            example: https://webejemplo.com
           website:
             type: string
             description: Url del sitio web del usuario
-            example: https://yacarestudio.com
+            example: https://webejemplo.com
       SchemaUserCreate:
         type: object
         required:
@@ -47,11 +47,11 @@ components:
           name:
             type: string
             description: Nombre del usuario
-            example: mulator
+            example: lucas
           email:
             type: string
             description: Correo electrónico del usuario
-            example: mulator@yacarestudio.com
+            example: lucasmatiastoledo88@gmail.com
           role:
             type: string
             description: Rol del usuario
@@ -59,8 +59,8 @@ components:
           image:
             type: string
             description: Avatar del usuario
-            example: https://yacarestudio.com/img/logo.png
+            example: https://webejemplo.com
           website:
             type: string
             description: Url del sitio web del usuario
-            example: https://yacarestudio.com
+            example: https://webejemplo.com

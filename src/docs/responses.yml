@@ -9,10 +9,10 @@ components:
             description: Id del usuario
           name:
             type: string
-            description: Titulo del usuario
+            description: Nombre del usuario
           email:
             type: string
-            description: Cuerpo del usuario
+            description: email del usuario
           role:
             type: string
             description: Rol del usuario

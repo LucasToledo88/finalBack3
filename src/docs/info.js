@@ -6,7 +6,7 @@ export const info = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "API Backend III",
+      title: "API Backend 3",
       autor: "Toledo Lucas",
       version: VERSION,
       description: "API - Backend III - 69910 -",

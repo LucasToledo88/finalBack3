@@ -8,24 +8,8 @@ Para la ejecución del proyectos, debemos descargar el repo, acceder a la carpet
 instalar las dependencias y ejecutar.
 
 ```sh
-# Clonamos el Proyecto
-git clone https://github.com/mulatorarg/curso-backend-iii.git
 
-# Accedemos a la carpeta creada
-cd curso-backend-iii
 
-# Instalamos las dependencias
-npm i
-
-# Ejecutamos la API
-npm run dev # http://localhost:8003
-
-# ó, podemos ejecutar Test de Chai
-npm run test
-
-# ó, también ejecutar Test de Node
-npm run test:node
-```
 
 
 ## Primera entrega
@@ -91,4 +75,4 @@ Link al repositorio de Github con el proyecto completo, sin la carpeta de node_m
 
 ## Docker Hub
 
-https://hub.docker.com/r/mulator/backend-iii/tags
+https://hub.docker.com/repository/docker/lucastoledo88/api_back3/general
